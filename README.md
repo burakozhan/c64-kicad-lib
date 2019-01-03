@@ -1,17 +1,18 @@
 # c64-kicad-lib
-KiCAD parts library for C64 specific parts. 
+KiCAD parts library for CBM C64 specific parts. 
+Data taken from public wikis and datasheets without copyright notices.
 
-Currently includes schematic symbols for:
+Status: **Work In Progress**
+
+## Currently includes schematic symbols for:
 * 6510 MPU Main Processing Unit (CPU)
 * 6567 VIC-II Video Interface Chip 2
-* 6581 SID Sound Interface DEvice
-* 6526 CIA Complex Interface adapter
+* 6581 SID Sound Interface Device
+* 6526 CIA Complex Interface Adapter
 * 8701 Clock generator
 * 906114 PLA Programmable Logic Array
 
-This is currently: Work In Progress
-
-ToDo:
-* Footprints to be added
-* Other Non-CBM chips
-* Alternate Devices
+## ToDo:
+* Add known footprints 
+* Add other non-CBM IC's
+* Set pin numbers for alternate packages
