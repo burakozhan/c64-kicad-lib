@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2016
+D 2048x8 Static RAM
+$ENDCMP
+#
+$CMP 2364
+D 8192x8 Static ROM
+$ENDCMP
+#
+$CMP 6502
+D 6502 Microprocessor
+F http://archive.6502.org/datasheets/mos_6500_mpu_nov_1985.pdf
+$ENDCMP
+#
+$CMP 6503
+D 6503 Microprocessor
+F http://archive.6502.org/datasheets/mos_6500_mpu_nov_1985.pdf
+$ENDCMP
+#
+$CMP 6504
+D 6504 Microprocessor
+F http://archive.6502.org/datasheets/mos_6500_mpu_nov_1985.pdf
+$ENDCMP
+#
+$CMP 6505
+D 6505 Microprocessor
+F http://archive.6502.org/datasheets/mos_6500_mpu_nov_1985.pdf
+$ENDCMP
+#
+$CMP 6506
+D 6506 Microprocessor
+F http://archive.6502.org/datasheets/mos_6500_mpu_nov_1985.pdf
+$ENDCMP
+#
+$CMP 6522
+D MCS6522 Versatile Interface Adapter (VIA)
+$ENDCMP
+#
+$CMP CIA
+D 6526 Complex Interface Adapter (CIA)
+$ENDCMP
+#
+$CMP MPU_6510_8500
+D 6510 / 8500 Microprocessor
+F http://archive.6502.org/datasheets/mos_6510_mpu.pdf
+$ENDCMP
+#
+$CMP PLA
+D Commodore 64 PLA
+$ENDCMP
+#
+$CMP VIC-II
+D 6560/6561 Video Interface Chip
+$ENDCMP
+#
+#End Doc Library
